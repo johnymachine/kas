@@ -1,5 +1,5 @@
 # kas
-Few basic algorithms encryption or encoding algorythm made in PYTHON.¨
-*AES
-*HAMMING
-*HUFFMAN
+Few basic algorithms encryption or encoding algorithms made in PYTHON.
+* AES
+* HAMMING
+* HUFFMAN
