@@ -1,0 +1,2 @@
+./main.py -e test-input test-key test-output
+./main.py -d test-output test-key test-output-decrypted

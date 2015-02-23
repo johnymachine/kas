@@ -1,0 +1,7 @@
+﻿cd c:\Users\Jan\Disk Google\TUL\it-2014-2016\01\KAS\zapocet\hamming\hamming-python-hans\
+
+python hamming_main.py -i input.txt -o output.hamm -K
+
+python hamming_main.py -i output.hamm -o output.errors.hamm -R
+
+python hamming_main.py -i output.errors.hamm -o input.rebuild.txt -D

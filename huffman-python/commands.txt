@@ -1,0 +1,3 @@
+python huffman_main.py -i input.txt -o output.huff -K
+python huffman_main.py -i output.huff -o input-rebuild.txt -D
+python huffman_main.py -i fotka.bmp -o output.huff -K
